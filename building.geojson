@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "building2",
+"name": "building",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "fid": 1, "name": "경영대학(오비스홀)", "int_name": "Orbis Hall(College of Business Administration)", "simplified name": "경영대학", "address_postcode": "02447", "address_city": "서울특별시", "address_gu": "동대문구", "address_dong": "이문동", "address_roadname": "경희대로", "address_roadnum": "26", "address_city_eng": "Seoul", "address_gu_eng": "Dongdaemun-gu", "address_dong_eng": "Imun-dong", "address_roadname_eng": "Kyungheedae-ro" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 127.0550215, 37.5968831 ], [ 127.0550001, 37.5967249 ], [ 127.0549765, 37.5965514 ], [ 127.0551288, 37.5965385 ], [ 127.0551222, 37.5964898 ], [ 127.0551684, 37.5964858 ], [ 127.0551502, 37.5963516 ], [ 127.0553136, 37.5963377 ], [ 127.0553696, 37.5967503 ], [ 127.0553834, 37.5968522 ], [ 127.0550215, 37.5968831 ] ] ], [ [ [ 127.0555504, 37.5964321 ], [ 127.0555545, 37.5963433 ], [ 127.0556685, 37.5963523 ], [ 127.0556442, 37.5967094 ], [ 127.0555444, 37.5969044 ], [ 127.0553874, 37.5968526 ], [ 127.0555256, 37.5967592 ], [ 127.0555504, 37.5964321 ] ] ] ] } },
